@@ -38,4 +38,5 @@ PC with LT Spice software
 <img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/6917ccdb-ae0c-4e89-abfd-f31a40c4e63f" />
 
 ## RESULT:
-<img width="1528" height="537" alt="image" src="https://github.com/user-attachments/assets/02186da7-5d2c-4d5c-8506-d59ea92a9e90" />
+![61ab0429-a794-4d1a-8add-1e30161925ea](https://github.com/user-attachments/assets/3b3ebba9-fddc-42df-b25d-0df105748ff0)
+
